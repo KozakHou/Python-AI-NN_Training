@@ -1,0 +1,3 @@
+Run the following URL to get the archive file
+
+https://www.kaggle.com/datasets/puneet6060/intel-image-classification/download?datasetVersionNumber=2
