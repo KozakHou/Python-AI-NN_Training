@@ -1,6 +1,5 @@
 # Python-AI-NN_Training
 
-See the Title
 
 **Citation**
 ```
